@@ -1,0 +1,12 @@
+.search-input {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
+
+.form-control:focus {
+  border-color: #18cc07;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px #18cc07,0 0 8px #18cc07;
+  box-shadow: inset 0 1px 1px #18cc07,0 0 8px #18cc07;
+}

@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
+import './item-status-filter.css';
 export default class ItemStatusFilter extends Component {
 
- buttons = [
+  buttons = [
   { name: 'all', label: 'Все' },
   { name: 'active', label: 'Активные' },
   { name: 'done', label: 'Завершенные' }

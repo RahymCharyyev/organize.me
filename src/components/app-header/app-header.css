@@ -3,7 +3,8 @@
 }
 
 .app-header h1 {
-  flex-grow: 1;
+  font-size: 2rem;
+  margin-right: 50px;
 }
 
 .app-header h2 {
@@ -13,4 +14,30 @@
 
 .logo {
   width: 70px;
+}
+
+@media (max-width:1000px ) {
+
+  .app-header h1 {
+    font-size: 1rem;
+    margin-right: 50px;
+  }
+
+  .app-header h2 {
+    font-size: 0.8rem;
+    color: grey;
+  }
+}
+
+@media (max-width:600px ) {
+
+  .app-header h1 {
+    font-size: 0.8rem;
+    margin-right: 10px;
+  }
+
+  .app-header h2 {
+    font-size: 0.5rem;
+    color: grey;
+  }
 }

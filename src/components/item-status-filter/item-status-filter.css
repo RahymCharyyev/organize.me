@@ -1,0 +1,16 @@
+@media (max-width:600px) {
+    .btn-danger {
+      width: 50px;
+      height: 38px;
+      font-size: 10px;
+    }
+
+    .btn-outline-danger {
+        display: inline-block;
+        width: 70px;
+        height: 38px;
+        font-size: 9px;
+   
+      }
+  }
+

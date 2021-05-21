@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/organize.me/static/css/main.5a6ef8ce.chunk.css",
-    "main.js": "/organize.me/static/js/main.a7487d9f.chunk.js",
-    "main.js.map": "/organize.me/static/js/main.a7487d9f.chunk.js.map",
+    "main.css": "/organize.me/static/css/main.c3f0a055.chunk.css",
+    "main.js": "/organize.me/static/js/main.cb0c3b90.chunk.js",
+    "main.js.map": "/organize.me/static/js/main.cb0c3b90.chunk.js.map",
     "runtime-main.js": "/organize.me/static/js/runtime-main.6596187e.js",
     "runtime-main.js.map": "/organize.me/static/js/runtime-main.6596187e.js.map",
     "static/js/2.012fc66d.chunk.js": "/organize.me/static/js/2.012fc66d.chunk.js",
     "static/js/2.012fc66d.chunk.js.map": "/organize.me/static/js/2.012fc66d.chunk.js.map",
     "index.html": "/organize.me/index.html",
-    "static/css/main.5a6ef8ce.chunk.css.map": "/organize.me/static/css/main.5a6ef8ce.chunk.css.map",
-    "static/js/2.012fc66d.chunk.js.LICENSE.txt": "/organize.me/static/js/2.012fc66d.chunk.js.LICENSE.txt"
+    "static/css/main.c3f0a055.chunk.css.map": "/organize.me/static/css/main.c3f0a055.chunk.css.map",
+    "static/js/2.012fc66d.chunk.js.LICENSE.txt": "/organize.me/static/js/2.012fc66d.chunk.js.LICENSE.txt",
+    "static/media/logo.8ba4e269.png": "/organize.me/static/media/logo.8ba4e269.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6596187e.js",
     "static/js/2.012fc66d.chunk.js",
-    "static/css/main.5a6ef8ce.chunk.css",
-    "static/js/main.a7487d9f.chunk.js"
+    "static/css/main.c3f0a055.chunk.css",
+    "static/js/main.cb0c3b90.chunk.js"
   ]
 }

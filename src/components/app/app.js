@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-
 import AppHeader from '../app-header';
 import SearchPanel from '../search-panel';
 import TodoList from '../todo-list';
@@ -120,7 +119,9 @@ export default class App extends Component {
         <AppHeader toDo={todoCount} done={doneCount} />
         <div className="top-panel d-flex">
           <SearchPanel onSearchChange={this.onSearchChange} />
-          <ItemStatusFilter filter={filter} onFilterChange={this.onFilterChange} />
+        </div>
+        <div className="filter">
+        <ItemStatusFilter filter={filter} onFilterChange={this.onFilterChange} />
         </div>
   
         <TodoList 

@@ -1,9 +1,20 @@
-.todo-app {
-  margin: 2rem auto 0 auto;
-  max-width: 1000px;
-}
-
 .top-panel {
   margin: 1rem 0;
 }
 
+.todo-app {
+  display:flex;
+  flex-direction:column;
+  margin-top: 35%;
+}
+
+.filter {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 375px) {
+  .filter {
+    display:flex;
+    justify-content: center;
+  }
+}

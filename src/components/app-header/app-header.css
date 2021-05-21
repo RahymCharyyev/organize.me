@@ -40,4 +40,8 @@
     font-size: 0.5rem;
     color: grey;
   }
+
+  .logo {
+    width: 40px;
+  }
 }

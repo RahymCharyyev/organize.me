@@ -3,20 +3,5 @@
 }
 
 .item-add-form input {
-    margin-right:  3px;
-}
-
-@media (max-width: 600px) {
-    
-    .item-add-form {
-        width: 150px;
-        height: 40px;
-    }
-    
-    .item-add-form input {
-        margin-right: 15px;
-        width: 400px;
-        height: 40px;
-        font-size: 12px;
-    }
+    margin-right: 3px;
 }

@@ -5,7 +5,7 @@
 .todo-app {
   display:flex;
   flex-direction:column;
-  margin-top: 35%;
+  margin-top: 25%;
 }
 
 .filter {

@@ -1,1 +1,1 @@
-Application for planning your day. I created this app from the Udemy course of Juriy Bura, React + Redux - Professional Development To try this app, go to related website in ABOUT tab in the right side. To view the source code of project, go to main branch of repository
+Application Organize.me for planning your day. I created this app from the Udemy course of Juriy Bura, React + Redux - Professional Development. To try this app, go to related website in ABOUT tab in the right side. To view the source code of project, go to main branch of repository

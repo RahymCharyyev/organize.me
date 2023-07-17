@@ -48,7 +48,7 @@ Application Organize.me for planning your day. I created this app from the Udemy
 
 :heavy_check_mark: Users can add and delete tasks. Also you can mark task as important;\
 :heavy_check_mark: Users are able to sort tasks by 3 categories: all, active, finished;\
-:heavy_check_mark: App has a search bar, to easily search task you need;\
+:heavy_check_mark: App has a search bar, to easily search task you need;
 
 ## :rocket: Technologies
 
